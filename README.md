@@ -4,7 +4,7 @@ E aí! Eu sou o Lucas, analista de dados.
 
 ## Sobre Mim
 
-- 👨‍💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 🌐 Fascinado pelo mundo do ciência de dados e desenvolvimento web.
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
 - ⚡ Meus hobbies incluem ler, praticar atividade física, jogar online e cozinhar.
