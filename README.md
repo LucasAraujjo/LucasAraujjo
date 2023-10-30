@@ -41,7 +41,13 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 -  <img width='14' height='14' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  target="blank"/></a> 
 Instagram: <a href="https://instagram.com/lucasnaraujoo?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr">@Lucasnaraujjo</a>
 
--  <img width='14' height='14' src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" /> Gmail: araujjo.lmiguel@gmail.com
+[araujjo.lmiguel@gmail.com](mailto:araujjo.lmiguel@gmail.com)
+
+
+
+mailto:matheusbezerra.office@gmail.com
+
+-  <img width='14' height='14' src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg" /> Gmail: [araujjo.lmiguel@gmail.com](mailto:araujjo.lmiguel@gmail.com)
 
 
 <!--
