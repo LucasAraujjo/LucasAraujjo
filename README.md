@@ -36,13 +36,11 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 
 ## Entre em Contato 
 
-<div>
+- 💼 Linkedin: [Lucas Araújo](https://www.linkedin.com/in/lucas-ara%C3%BAjo-1ab73526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-<img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />: [Lucas Araújo](https://www.linkedin.com/in/lucasperfil)
-<i class="fa-brands fa-instagram" style="color: #ffffff;"></i> : @Lucasnaraujjo
-<i class="fa-solid fa-envelope" style="color: #a41919;"></i> : araujjo.lmiguel@gmail.com
-  
-</div>
+- 📷 Instagram: [@Lucasnaraujjo](https://instagram.com/lucasnaraujoo?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)
+
+- ✉️ Gmail: araujjo.lmiguel@gmail.com
 
 
 <!--
