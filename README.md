@@ -1,8 +1,8 @@
-## Bem-vindo ao meu GitHub!
+# Bem-vindo ao meu GitHub!
 
 E aí! Eu sou o Lucas, analista de dados.
 
-## Sobre Mim
+##Sobre Mim
 
 - 👨‍💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 - 🌐 Fascinado pelo mundo do ciência de dados e desenvolvimento web.
