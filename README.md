@@ -9,7 +9,7 @@ E aí! Eu sou o Lucas, analista de dados.
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
 - ⚡ Meus hobbies incluem ler, praticar atividade física, jogar online e cozinhar.
 
-## O Que Você Encontrará Aqui
+## Conteúdo
 
 Este repositório contém uma variedade de projetos relacionados ao meu percurso acadêmico e pessoal. Aqui está uma prévia do que você pode encontrar:
 
