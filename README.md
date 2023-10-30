@@ -1,6 +1,8 @@
 # Bem-vindo ao meu GitHub!
 
-E aí! Eu sou o Lucas, analista de dados e desenvolvedor web; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia.
+E aí! Eu sou o Lucas, estudante de análise e desenvolvimento de sistemas, fascinado pelo mundo de Análise de Dados e Desenvolvimento Web. Aficcionado por tecnologia, adoro pesquisar e me atualizar sobre as principais tendências no mercado de 
+tecnologia. 
+
 
 ## Sobre Mim
 
