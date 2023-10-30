@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-E aí! Eu sou o Lucas, analista de dados.
+E aí! Eu sou o Lucas, analista de dados e desenvolvedor web; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia.
 
 ## Sobre Mim
 
@@ -9,7 +9,7 @@ E aí! Eu sou o Lucas, analista de dados.
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
 - ⚡ Meus hobbies incluem ler, praticar atividade física, jogar online e cozinhar.
 
-## Conteúdo
+## Meu Conteúdo
 
 Este repositório contém uma variedade de projetos relacionados ao meu percurso acadêmico e pessoal. Aqui está uma prévia do que você pode encontrar:
 
@@ -18,7 +18,7 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 - 📚 Projetos Acadêmicos: Trabalhos e projetos relacionados ao meu curso de Análise e Desenvolvimento de Sistemas.
 - 🔗 Outros Recursos: Links úteis, tutoriais e artigos que encontrei durante minha jornada de aprendizado.
 
-## Minhas Linguagens e Tecnologias:
+## Linguagens e Tecnologias:
 
 <div style = "display:inline_block"><br>
 
@@ -34,13 +34,14 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 
 </div>
 
-## Entre em Contato 
+## Entre em Contato: 
 
-- 💼 Linkedin: [Lucas Araújo](https://www.linkedin.com/in/lucas-ara%C3%BAjo-1ab73526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+-  <img width='14' height='14' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Linkedin: [Lucas Araújo](www.linkedin.com/in/lucasaraujjo)
 
-- 📷 Instagram: [@Lucasnaraujjo](https://instagram.com/lucasnaraujoo?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)
+-  <img width='14' height='14' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a> 
+Instagram: [@Lucasnaraujjo](https://instagram.com/lucasnaraujoo?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)
 
-- ✉️ Gmail: araujjo.lmiguel@gmail.com
+-  <img width='14' height='14' src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg"/> Gmail: araujjo.lmiguel@gmail.com
 
 
 <!--
