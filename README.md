@@ -1,36 +1,49 @@
-Claro! Aqui está uma descrição de um README para um GitHub personalizado para Lucas, um aluno de Análise e Desenvolvimento de Sistemas com interesse nas áreas de front-end e data science:
+### Bem-vindo ao meu GitHub!
 
-# Bem-vindo ao meu GitHub!
-
-Olá! Eu sou o Lucas, um aluno de Análise e Desenvolvimento de Sistemas apaixonado por front-end e data science. Este é o meu repositório pessoal, onde compartilho projetos e códigos relacionados às minhas áreas de interesse.
+E aí! Eu sou o Lucas, analista de dados.
 
 ## Sobre Mim
 
 - 👨‍💻 Atualmente estudante de Análise e Desenvolvimento de Sistemas.
-- 🌐 Fascinado pelo mundo do desenvolvimento web e design de interfaces.
-- 📊 Interessado em explorar o potencial dos dados por meio da data science.
+- 🌐 Fascinado pelo mundo do ciência de dados e desenvolvimento web.
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
+- ⚡ Meus hobbies incluem ler, praticar atividade física, jogar online e cozinhar.
 
 ## O Que Você Encontrará Aqui
 
 Este repositório contém uma variedade de projetos relacionados ao meu percurso acadêmico e pessoal. Aqui está uma prévia do que você pode encontrar:
 
+- 📈 Projetos de Data Science: Dashboards e projetos que exploram análise de dados, banco de dados, automação e visualização de dados.
 - 🌟 Projetos de Front-End: Aplicações web, websites e componentes de UI que desenvolvi para aprimorar minhas habilidades de front-end.
-- 📈 Projetos de Data Science: Notebooks e projetos que exploram análise de dados, aprendizado de máquina e visualização de dados.
 - 📚 Projetos Acadêmicos: Trabalhos e projetos relacionados ao meu curso de Análise e Desenvolvimento de Sistemas.
 - 🔗 Outros Recursos: Links úteis, tutoriais e artigos que encontrei durante minha jornada de aprendizado.
 
-## Como Contribuir
+## Minhas Linguagens e Tecnologias:
 
-Se você se interessa pelas áreas de front-end, data science ou tem alguma sugestão ou feedback, fique à vontade para contribuir ou entrar em contato comigo. Adoraria colaborar com outros entusiastas e aprender com a comunidade.
+<div style = "display:inline">
 
-## Entre em Contato
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-- 📧 E-mail: lucas@email.com
-- 🐦 Twitter: [@LucasDev](https://twitter.com/LucasDev)
-- 💼 LinkedIn: [Lucas Perfil](https://www.linkedin.com/in/lucasperfil)
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado. Obrigado por visitar meu GitHub e compartilhar meu interesse em front-end e data science! 😊👨‍💻📊
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+</div>
+
+## Entre em Contato 
+
+<div>
+
+<img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />: [Lucas Araújo](https://www.linkedin.com/in/lucasperfil)
+<i class="fa-brands fa-instagram" style="color: #ffffff;"></i> : @Lucasnaraujjo
+<i class="fa-solid fa-envelope" style="color: #a41919;"></i> : araujjo.lmiguel@gmail.com
+  
+</div>
+
 
 <!--
 **LucasAraujjo/LucasAraujjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
