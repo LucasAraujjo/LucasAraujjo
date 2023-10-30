@@ -36,7 +36,7 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 
 ## Entre em Contato: 
 
--  <img width='14' height='14' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/> LinkedIn: <a href="www.linkedin.com/in/lucasaraujjo" target="_blank">Lucas Araújo</a>
+-  <img width='14' height='14' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/> LinkedIn: <a href="https://www.linkedin.com/in/lucasaraujjo" target="_blank">Lucas Araújo</a>
 
 https://www.linkedin.com/in/lucasaraujjo
 
