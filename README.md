@@ -20,7 +20,7 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 
 ## Minhas Linguagens e Tecnologias:
 
-<div style = "display:inline">
+<div style = "display:inline_block"><br>
 
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
