@@ -23,11 +23,11 @@ Este repositório contém uma variedade de projetos relacionados ao meu percurso
 
 <img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align= "center" width='55' height='50' src="https://github.com/microsoft/PowerBI-Icons/blob/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" />
 
 <img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-
-<img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <img align= "center" width='55' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
 
