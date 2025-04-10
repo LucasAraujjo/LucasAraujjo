@@ -1,12 +1,12 @@
 # Bem-vindo ao meu GitHub!
 
-E aí! Eu sou o Lucas, analista de dados e desenvolvedor web; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia.
+E aí! Eu sou o Lucas, analista de dados; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia ne principalmente na área de dados.
 
 
 ## Sobre Mim
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌐 Fascinado pelo mundo do ciência de dados e desenvolvimento web.
+- 👨‍💻 Formando de Análise e Desenvolvimento de Sistemas e estudante de Ciência da Computação.
+- 🌐 Fascinado pelo mundo do ciência de dados.
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
 - ⚡ Meus hobbies incluem ler, praticar atividade física, jogar online e cozinhar.
 
@@ -15,9 +15,7 @@ E aí! Eu sou o Lucas, analista de dados e desenvolvedor web; aficcionado por te
 Este repositório contém uma variedade de projetos relacionados ao meu percurso acadêmico e pessoal. Aqui está uma prévia do que você pode encontrar:
 
 - 📈 Projetos de Data Science: Dashboards e projetos que exploram análise de dados, banco de dados, automação e visualização de dados.
-- 🌟 Projetos de Front-End: Aplicações web, websites e componentes de UI que desenvolvi para aprimorar minhas habilidades de front-end.
-- 📚 Projetos Acadêmicos: Trabalhos e projetos relacionados ao meu curso de Análise e Desenvolvimento de Sistemas.
-- 🔗 Outros Recursos: Links úteis, tutoriais e artigos que encontrei durante minha jornada de aprendizado.
+- 📚 Projetos Acadêmicos: Trabalhos e projetos relacionados ao meu curso de Análise e Desenvolvimento de Sistemas, e Ciência da Computação.
 
 ## Linguagens e Tecnologias:
 
