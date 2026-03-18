@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub!
 
-E aí! Eu sou o Lucas, analista de dados; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia ne principalmente na área de dados.
+E aí! Eu sou o Lucas, engenheiro de dados; aficcionado por tecnologia estou sempre aprimorando meu conhecimento através do estudo, das melhores práticas e adquirindo experiência em todas as oportunidades; adoro pesquisar e me atualizar sobre as principais tendências no mercado de tecnologia ne principalmente na área de dados.
 
 
 ## Sobre Mim
