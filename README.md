@@ -52,17 +52,3 @@ Este repositório reúne projetos práticos e estudos relacionados à minha atua
 * 📧 Email: [araujjo.lmiguel@gmail.com](mailto:araujjo.lmiguel@gmail.com)
 
 ---
-
-## ⚡ Curiosidade
-
-Acredito que engenharia de dados vai além de pipelines — é sobre construir o **sistema nervoso de informação** de uma organização. Atualmente, exploro como **IA pode acelerar esse processo**, integrando agentes ao fluxo de desenvolvimento e automação.
-
----
-
-Se quiser dar um próximo passo, dá pra deixar esse README ainda mais forte com:
-
-* badges de tecnologias
-* projetos em destaque (fixados)
-* métricas do GitHub (stats, streaks, etc.)
-
-Isso transforma seu perfil em algo que chama atenção em **menos de 5 segundos**, que é basicamente o tempo médio que alguém passa olhando um GitHub pela primeira vez.
